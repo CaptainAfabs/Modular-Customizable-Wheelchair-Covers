@@ -1,0 +1,36 @@
+# OS junk
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fusion 360 backups
+*.f3d.bak
+*.f3z.bak
+AutoSaveBackup/
+
+# Slicer caches and intermediates (keep STL/G-code out of repo unless intentionally shared)
+*.gcode
+*.bgcode
+*.3mf
+output/
+slicer-cache/
+
+# Patent draft files that aren't for public consumption
+**/Claude double check.docx
+**/*draft*.docx
+**/*scratch*.docx
+
+# Old downloads / unzipped patent archives
+patent-*/
+
+# Anything ending in -PRIVATE
+*-PRIVATE.*
