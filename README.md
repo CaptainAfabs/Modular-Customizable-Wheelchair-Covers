@@ -90,6 +90,16 @@ Total cost per wheel, in mid-2026 USD: roughly **$3–6** in filament and **$2�
 
 ---
 
+## Color examples
+
+Same eight-segment design, different palettes. Mix and match per segment to get whatever pattern you want — team colors, holiday themes, alternating stripes, or one-off panels with a name engraved.
+
+![Segments laid out during assembly across red/white, blue/lavender, and green/red sets](images/05-segments-assembly-multi-color.jpg)
+
+![Green-and-red set installed on a wheelchair drive wheel](images/06-installed-green-red.jpg)
+
+---
+
 ## License and the patent
 
 **Code, CAD, drawings, and documentation: [CERN-OHL-S v2](LICENSE)** — the strongly reciprocal open-hardware license. If you modify this design and distribute it (or products made with it), you must release your modifications under the same license. This is deliberate. The whole point of releasing this design is that nobody should ever be able to fence it off again.
